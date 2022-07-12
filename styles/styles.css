@@ -1,0 +1,46 @@
+#vermelho,
+#amarelo,
+#verde {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+#vermelho {
+  border: red solid 2px;
+  background-color: red;
+}
+
+#amarelo {
+  border: orange solid 2px;
+  background-color: orange;
+}
+
+#verde {
+  border: rgb(11, 156, 11) solid 2px;
+  background-color: rgb(20, 189, 20);
+}
+
+.container {
+  margin-top: 10rem;
+  margin-left: 15rem;
+  width: 210px;
+  height: 620px;
+  background-color: black;
+}
+
+.opacidade {
+  opacity: 0.4;
+}
+
+.execute {
+  padding-top: 5rem;
+  padding-left: 15rem;
+  font-family: "Roboto Slab";
+}
+
+button {
+  width: 5rem;
+  margin-top: 3rem;
+  font-family: "Roboto Slab";
+}
